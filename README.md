@@ -24,7 +24,7 @@ Check out my latest project: [Wednesday - app](https://wednesday-app.herokuapp.c
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ronbuchris&&show_icons=true&title_color=3080ED&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ronbuchris&&show_icons=true&title_color=3080ED&icon_color=3080ED&text_color=daf7dc&bg_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbuchris&hide=TeX&layout=compact)
 
 <!--
