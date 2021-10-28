@@ -2,7 +2,9 @@
 
 
 My name is Ron and I'm a Full-Stack / Front-End Web Developer. #opentowork
-Check out my latest project: [Wednesday - app](https://wednesday-app.herokuapp.com/)
+Check out my latest project: [Wednesday - app](https://wednesday-app.herokuapp.com/) .
+
+<img src="https://github-readme-stats.vercel.app/api?username=ronbuchris&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 <!--
 **ronbuchris/ronbuchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
