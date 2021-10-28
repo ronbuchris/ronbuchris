@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+My name is Ron and I'm a Full-Stack / Front-End Web Developer. #opentowork
+Check out my latest project: [Wednesday - app](https://wednesday-app.herokuapp.com/)
+
 <!--
 **ronbuchris/ronbuchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
